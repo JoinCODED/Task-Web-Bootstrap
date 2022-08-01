@@ -23,7 +23,7 @@
 
 4. In this file, you will find a page that needs to be styled using bootstrap. You can reference the bootstrap documentation for more information.
 
-[bootstrap]: https://getbootstrap.com/docs/
+[bootstrap](https://getbootstrap.com/docs/)
 
 5. The final result can be like this, but you can use any style you want. Be creative!
 
@@ -39,18 +39,20 @@
 
 - Add the card class to each square.
 
-[docs]: https://getbootstrap.com/docs/5.2/layout/grid/
-[docs]: https://getbootstrap.com/docs/5.2/components/card/
+[docs](https://getbootstrap.com/docs/5.2/layout/grid/)
+[docs](https://getbootstrap.com/docs/5.2/components/card/)
 
 3. First Square:
 
 - Make the image as a circle.
 
-[docs]: https://mdbootstrap.com/docs/standard/extended/avatar/
+[Avatar](https://mdbootstrap.com/docs/standard/extended/avatar/)
+
 
 - Add a button classname and change it's color.
 
-[docs]: https://getbootstrap.com/docs/5.2/components/buttons/
+[Button](https://getbootstrap.com/docs/5.2/components/buttons/)
+
 
 - Add a margin between the image, the text and the button.
 
@@ -58,24 +60,24 @@
 
 - Style the list and the list items to match the design colors.
 
-[docs]: https://getbootstrap.com/docs/5.2/components/list-group/
+[List-group](https://getbootstrap.com/docs/5.2/components/list-group/)
 
 - Wrap the arrow icon with a badge
 
-[docs]: https://getbootstrap.com/docs/5.2/components/badge/
+[Badge](https://getbootstrap.com/docs/5.2/components/badge/)
 
 - Style the progress bar to match the design colors.
 
-[docs]: https://getbootstrap.com/docs/5.2/components/progress/
+[Progress](https://getbootstrap.com/docs/5.2/components/progress/)
 
 5. Third Square:
 
 - Explore the form elements and style them to match the design colors.
 
-[docs]: https://getbootstrap.com/docs/5.2/components/forms/
+[Forms](https://getbootstrap.com/docs/5.2/components/forms/)
 
 6. Fourth Square:
 
 - Another list to style and create a pagination component.
 
-[docs]: https://getbootstrap.com/docs/5.2/components/pagination/
+[Pagination](https://getbootstrap.com/docs/5.2/components/pagination/)
