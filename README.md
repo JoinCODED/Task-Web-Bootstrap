@@ -2,7 +2,7 @@
 
 ### Setup
 
-1. Fork and clone [this](https://github.com/JoinCODED/Task-Django-Web-Bootstrap) repository into your development folder.
+1. Fork and clone this repository into your development folder.
 2. Open `index.html` in your code editor.
 3. Add the following lines of code to the top of the file:
 
